@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+#top-container {
+    background-color: #E4F9F5;
+    padding-top: 5%;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+#mountain {
+    width: 900px;
+    height: 400px;
+}
+
+#bottom-cloud {
+    width: 200px;
+    position: relative;
+    margin-top: 40px;
+    right: 43%;
+}
+
+#top-cloud {
+    position: relative;
+    width: 200px;
+    left: 43%;
+}
+
+#title-container {
+    position: relative;
+    width: 900px;
+    margin: 0 auto;
+}
+
+h2, h3 { 
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
